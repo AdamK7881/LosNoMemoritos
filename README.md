@@ -1,4 +1,4 @@
-# Jak hostovat web přes GitHub Pages?
+# Jak hostovat web přes GitHub Pagesss?
 
 1. Přihlaš se na svůj GitHub účet.
 
