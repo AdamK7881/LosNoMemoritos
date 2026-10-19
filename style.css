@@ -11,9 +11,9 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background: white;
-  color: black;
   background: #b3d1cd;
+  color: black;
+
   /* POZADÍ - co jde přidat:
      background: #1a1a1a;                       barva (název, #hex nebo rgb)
      background: url("obrazek.jpg");            obrázek
