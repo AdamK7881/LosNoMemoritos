@@ -42,7 +42,8 @@ body {
 header {
   padding: 20px;
   border-bottom: 1px solid #ccc;
-
+  background: #3a6d7e;
+  position: sticky; top: 0; 
   /* Další možnosti:
      position: sticky; top: 0;       zůstane nahoře při scrollu
      background: #eee;               barva pozadí
