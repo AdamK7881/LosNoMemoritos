@@ -1,0 +1,6 @@
+Co bylo udělané ai
+1. text na stránce s dlouhými popisky
+2. obrázky na webu byli vygenerované
+3. pomoc při tom když w3school dostatečně neobjasnila prvek ve styllu
+4. zhezčení kódu/přidané poznámky
+5. pomoc hledání chyb 
